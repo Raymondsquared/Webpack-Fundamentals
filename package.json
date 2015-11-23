@@ -1,0 +1,10 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "Webpack demo",
+  "author": "Raymond",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.8"
+  }
+}
