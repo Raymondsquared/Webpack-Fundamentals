@@ -33,6 +33,7 @@
     "less-loader": "^2.2.2",
     "node-libs-browser": "^0.5.3",
     "node-sass": "^3.4.2",
+    "raw-loader": "^0.5.1",
     "sass-loader": "^3.1.2",
     "strip-json-comments": "^2.0.0",
     "strip-loader": "^0.1.0",
